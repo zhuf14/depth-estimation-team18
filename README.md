@@ -3,3 +3,5 @@
 Since the pretrained model and data are huge, so we upload them to the google drive.
 * Download the pretrained model:
 * Download the data:
+## Test with single image
+Run project.ipynb
